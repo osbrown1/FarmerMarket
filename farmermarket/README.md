@@ -32,13 +32,13 @@ A client for users to view where and when they can buy some produce.
 ```
 App.js
 ├── Header.js
-├── ProduceControl.js
-│   ├── ProductList.js           
-├── LocationControl.js
-│   ├── LocationList.js       
+├── SeasonalProduce.js
+│   ├── Produce.js           
+├── MarketSchedule.js
+│   ├── DateControl.js       
 ```
 ## Mockup
-![Mockup](./{NAME-OF-Img-HERE}.png)
+![Mockup](./CAPTURE.png)
 
 # Getting Started with Create React App
 
@@ -48,7 +48,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone this project to your local machine by using the following command:
 ```
-git clone OWENS REPO NAME HERE
+git clone https://github.com/osbrown1/FarmerMarket.git
 ```
 
 **Directions after cloning:**
