@@ -1,0 +1,31 @@
+
+body {
+  /* Define the background gradient */
+  background: linear-gradient(to bottom, #191919, #333333);
+
+  /* Add some heavy metal themed styles */
+  color: white;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  text-shadow: 1px 1px #f1eded;
+}
+
+
+
+h1  {
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+}
+
+.header-container {
+  text-align: center;
+  color: #fff;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.8;
+  margin-top: 40px;
+}
